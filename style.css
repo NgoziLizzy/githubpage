@@ -1,0 +1,76 @@
+#main-page {
+  background-color: rgba(242, 244, 246, 0.7);
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 240px;
+  height: 15rem;
+  padding: 35px;
+  text-align: left;
+  margin-left: 450px;
+  margin-top: 0px;
+  font-family: sans-serif;
+  border: solid  0.5px rgb(175, 173, 173);
+}
+.git-logo {
+  margin-left: -13rem;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 23px;
+  margin-top: 50px;
+}
+
+.Form1 {
+  margin-top: 16px;
+}
+.Form1 label {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+input {
+  margin-top: 18px;
+  width: 15rem;
+  height: 30px;
+  border: solid 0.5px gray;
+  border-radius: 5px;
+}
+.form2 {
+  margin-top: 20px;
+}
+.form2 label {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+.form2 span a {
+  margin-left: 3.91rem;
+  color: rgb(46, 97, 239);
+  text-decoration: none;
+}
+#submit {
+ margin-top: 4px;
+ width: 15.3rem;
+ height: 35px;
+ border-radius: 5px;
+ border: solid 0.5px gray;
+ background-color: rgb(31, 136, 61);
+ color: white;
+}
+.sign-in {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 279px;
+  padding: 1rem;
+  border: solid  0.5px rgb(175, 173, 173);
+  margin-left: -35px;
+  margin-top: 3.8rem;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 14px;
+
+}
+.sign-in span a {
+  color: rgb(46, 97, 239);
+  text-decoration: none;
+  font-size: 14px;
+  
+}
